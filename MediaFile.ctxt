@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MediaFile
+comment1.params=x
+comment1.target=java.lang.String\ readLine(int)
+comment1.text=\n\ Opens\ a\ file\ to\ be\ used\ for\ input\ (if\ not\ already\ open),\n\ reads\ a\ line\ from\ the\ file,\ and\ returns\ the\ entire\ line\ of\ data.\n\ \n\ @return\ a\ line\ of\ text\ from\ the\ input\ file\n
+comment2.params=
+comment2.target=java.lang.String\ readString()
+comment3.params=s
+comment3.target=void\ writeString(java.lang.String)
+comment3.text=\n\ Oens\ a\ file\ to\ be\ used\ for\ output\ (if\ not\ already\ open),\n\ writes\ a\ string\ to\ the\ file\ and\ wrties\ a\ newline.\n\ \n\ @param\ s\ The\ string\ text\ to\ be\ written.\ Follwing\ the\ string,\ a\ newline\ is\ added\ to\ the\ file.\n
+comment4.params=
+comment4.target=void\ saveAndClose()
+comment4.text=\n\ Saves\ and\ closes\ the\ file\ (when\ opened\ for\ either\ input\ or\ output).\ \n\ \n\ Note\:\ If\ the\ program\ terminates\ before\ the\ file\ is\ closed,\n\ no\ data\ will\ be\ saved\ or\ written\ to\ the\ file.\n
+numComments=5
